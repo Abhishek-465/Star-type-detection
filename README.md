@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project uses machine learning to detect the type of stars based on certain input features. The model is built using Scikit-learn, Numpy, and Pandas.
+This project uses machine learning to detect the type of stars based on certain input features. The model is built using Scikit-learn, Numpy, and Pandas. I have also used FastApi to test it as an API.
 
 
 ## Features
