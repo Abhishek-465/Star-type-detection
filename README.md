@@ -23,8 +23,7 @@ The dataset used in this project contains various features of stars that help in
 - Luminosity
 - Radius
 - Absolute Magnitude
-- Star Color
-- Spectral Class
+  
 
 ## Model
 
